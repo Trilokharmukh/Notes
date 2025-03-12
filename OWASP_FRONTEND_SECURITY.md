@@ -1,4 +1,3 @@
-echo "````markdown
 # Frontend Security Best Practices (Based on OWASP Top 10)
 
 ## 1. Broken Access Control  
